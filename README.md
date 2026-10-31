@@ -1,111 +1,106 @@
-# Hey, I'm Hugo 👋
+# Olá, sou o Hugo 👋
 
-### Frontend Developer · Building thoughtful digital experiences.
+### Desenvolvedor Frontend · A construir experiências digitais úteis.
 
-I build modern web interfaces and practical digital products, with a focus on usability, accessibility, performance, and thoughtful design.
+Desenvolvo interfaces web modernas e produtos digitais com foco em usabilidade, acessibilidade, desempenho e clareza.
 
-I enjoy turning ideas into functional products — from polished user interfaces to developer tools that solve real problems.
+Gosto de transformar ideias em soluções funcionais — desde interfaces bem pensadas até ferramentas para programadores que resolvem problemas concretos.
 
-Currently expanding my skills in backend development while building projects that challenge me to think beyond the interface.
+Atualmente, estou a aprofundar os meus conhecimentos de backend e a evoluir através de projetos práticos.
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
-A selection of projects I've designed, developed, and experimented with.
+Uma seleção de projetos que representam o meu trabalho e aquilo que gosto de construir.
 
 ### [Integra](https://github.com/Hugo-JC/Integra)
-**A modular design intelligence and quality engine.**
+**Motor modular de direção e validação de design.**
 
-A system that transforms product briefs and context into structured, verifiable design direction for developers and AI agents.
+Transforma briefings e contexto de produto em orientações de design estruturadas e verificáveis, que podem ser utilizadas por programadores e agentes de IA.
 
-- Deterministic design direction generation.
-- Structured validation and JSON contracts.
-- CLI tools and agent integration contracts.
+- Geração determinística de direções de design.
+- Validação estruturada e contratos JSON.
+- Ferramentas CLI e contratos de integração para agentes.
 
 `TypeScript` `Node.js` `JSON Schema`
 
 ### [REAISS](https://github.com/Hugo-JC/REAISS)
-**A video-to-scroll animation toolkit.**
+**Ferramenta de vídeo para animações controladas pelo scroll.**
 
-A local CLI tool that converts videos into optimized frame sequences for scroll-driven web experiences.
+Uma ferramenta CLI local que converte vídeos em sequências de imagens para experiências web com animações ligadas ao scroll.
 
-- Desktop and mobile frame generation.
-- Interactive offline preview.
-- FFmpeg-powered processing workflow.
+- Geração de sequências para desktop e mobile.
+- Pré-visualização interativa offline.
+- Processamento de vídeo com FFmpeg.
 
 `Python` `FFmpeg` `JavaScript`
 
 ### [ONDJO](https://github.com/Hugo-JC/ondjo)
-**A real estate marketplace prototype for Angola.**
+**Protótipo de marketplace imobiliário para Angola.**
 
-A responsive property discovery experience designed to make browsing and exploring real estate more intuitive.
+Uma experiência responsiva de descoberta de imóveis, pensada para tornar a pesquisa e exploração de propriedades mais simples.
 
-- Property search and advanced filters.
-- Dynamic listings and property detail pages.
-- Responsive interface and accessibility considerations.
+- Pesquisa de imóveis com filtros.
+- Listagens e páginas de detalhes.
+- Interface responsiva e atenção à acessibilidade.
 
 `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-*Frontend prototype using mock data.*
+<sub>Protótipo frontend; utiliza dados de demonstração.</sub>
 
 ### [Nulled Flow](https://github.com/Hugo-JC/nulled-flow)
-**A focused productivity dashboard.**
+**Dashboard minimalista de produtividade.**
 
-A minimal productivity application combining task management, Pomodoro sessions, and daily focus indicators.
+Uma aplicação que reúne gestão de tarefas, sessões Pomodoro e indicadores diários de foco.
 
 `React` `JavaScript` `Tailwind CSS` `Vite`
 
 ### [Calculator](https://github.com/Hugo-JC/calculator)
-**An iOS-inspired calculator experience.**
+**Experiência de calculadora inspirada no iOS.**
 
-An interactive calculator experiment focused on interface design, state management, and smooth interactions.
+Um projeto de interface interativa com foco na organização de componentes, gestão de estado e interações fluidas.
 
 `React` `TypeScript` `Zustand` `Framer Motion`
 
 ---
 
-## Tech Stack
+## Tecnologias
 
 **Frontend**
-
-- HTML5 · CSS3 · JavaScript
+- HTML · CSS · JavaScript
 - React · TypeScript
-- Tailwind CSS
-- Framer Motion
+- Tailwind CSS · Framer Motion
 
-**Tools & Development**
-
+**Ferramentas**
 - Git · GitHub
-- Vite
-- Node.js
+- Vite · Node.js
 - VS Code
 
-**Currently exploring**
-
+**A aprofundar**
 - PHP
-- Backend development
-- Software architecture
+- Desenvolvimento backend
+- Arquitetura de software
 
 ---
 
-## What I Care About
+## Princípios de desenvolvimento
 
-- Building interfaces that are useful, not just visually appealing.
-- Creating accessible and responsive experiences.
-- Writing maintainable and understandable code.
-- Solving actual problems instead of adding unnecessary complexity.
-- Continuously learning through practical projects.
+- Criar interfaces úteis, não apenas visualmente apelativas.
+- Dar prioridade à acessibilidade e à experiência em diferentes ecrãs.
+- Escrever código organizado e fácil de manter.
+- Resolver problemas reais sem acrescentar complexidade desnecessária.
+- Aprender e melhorar através da construção de projetos.
 
 ---
 
-## Let's Connect
+## Contacto e colaboração
 
-I'm open to freelance opportunities, interesting collaborations, and projects where I can contribute through frontend development and product thinking.
+Estou disponível para conversar sobre oportunidades freelance, colaborações e projetos onde possa contribuir com desenvolvimento frontend e pensamento de produto.
 
 - **GitHub:** [@Hugo-JC](https://github.com/Hugo-JC)
-- **Projects:** [Explore my repositories](https://github.com/Hugo-JC?tab=repositories)
+- **Repositórios:** [Explorar os meus projetos](https://github.com/Hugo-JC?tab=repositories)
 
 ---
 
-<sub>Designed and built with curiosity by Hugo · Nulled_</sub>
+<sub>Construído com curiosidade · Nulled_</sub>
