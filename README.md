@@ -79,6 +79,7 @@ Um projeto de interface interativa com foco na organização de componentes, ges
 
 **A aprofundar**
 - PHP
+- NodeJS
 - Desenvolvimento backend
 - Arquitetura de software
 
